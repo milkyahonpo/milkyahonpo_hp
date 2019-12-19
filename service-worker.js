@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/milkyahonpo_hp/precache-manifest.a8d383ec93e6d6d033cc672185730877.js"
+  "/milkyahonpo_hp/precache-manifest.f29d0248a004aa0c3f03dd02ea683baa.js"
 );
 
 self.addEventListener('message', (event) => {
