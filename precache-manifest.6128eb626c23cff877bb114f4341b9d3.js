@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36842ead95d6d3f9bbd17c98cc55d2dd",
+    "revision": "24ee6be16ae707caea2068b9ab5fd1f6",
     "url": "/milkyahonpo_hp/index.html"
   },
   {
-    "revision": "c1dce9c9bea3d6c37f7e",
+    "revision": "f433a1e780865d86e28b",
     "url": "/milkyahonpo_hp/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/milkyahonpo_hp/static/js/2.70b3ac82.chunk.js.LICENSE"
   },
   {
-    "revision": "c1dce9c9bea3d6c37f7e",
-    "url": "/milkyahonpo_hp/static/js/main.be848b98.chunk.js"
+    "revision": "f433a1e780865d86e28b",
+    "url": "/milkyahonpo_hp/static/js/main.2e3c3f97.chunk.js"
   },
   {
     "revision": "c08a39b926394796ff42",
