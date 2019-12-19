@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/milkyahonpo_hp/static/css/main.dcd95780.chunk.css",
-    "main.js": "/milkyahonpo_hp/static/js/main.93addfe8.chunk.js",
-    "main.js.map": "/milkyahonpo_hp/static/js/main.93addfe8.chunk.js.map",
+    "main.js": "/milkyahonpo_hp/static/js/main.ce20a2eb.chunk.js",
+    "main.js.map": "/milkyahonpo_hp/static/js/main.ce20a2eb.chunk.js.map",
     "runtime-main.js": "/milkyahonpo_hp/static/js/runtime-main.cdc58252.js",
     "runtime-main.js.map": "/milkyahonpo_hp/static/js/runtime-main.cdc58252.js.map",
     "static/js/2.5ff02a33.chunk.js": "/milkyahonpo_hp/static/js/2.5ff02a33.chunk.js",
     "static/js/2.5ff02a33.chunk.js.map": "/milkyahonpo_hp/static/js/2.5ff02a33.chunk.js.map",
     "index.html": "/milkyahonpo_hp/index.html",
-    "precache-manifest.902f930f180a9cfd0a0c85ad332cc77b.js": "/milkyahonpo_hp/precache-manifest.902f930f180a9cfd0a0c85ad332cc77b.js",
+    "precache-manifest.582a236f9437ff04abd9195a1e6c0034.js": "/milkyahonpo_hp/precache-manifest.582a236f9437ff04abd9195a1e6c0034.js",
     "service-worker.js": "/milkyahonpo_hp/service-worker.js",
     "static/css/main.dcd95780.chunk.css.map": "/milkyahonpo_hp/static/css/main.dcd95780.chunk.css.map",
     "static/js/2.5ff02a33.chunk.js.LICENSE": "/milkyahonpo_hp/static/js/2.5ff02a33.chunk.js.LICENSE",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.cdc58252.js",
     "static/js/2.5ff02a33.chunk.js",
     "static/css/main.dcd95780.chunk.css",
-    "static/js/main.93addfe8.chunk.js"
+    "static/js/main.ce20a2eb.chunk.js"
   ]
 }
