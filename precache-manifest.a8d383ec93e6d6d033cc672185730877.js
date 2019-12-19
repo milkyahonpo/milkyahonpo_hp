@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a59bbfaa85f36c9c50f97ef801f0a949",
+    "revision": "67ec9f7a1794ee58473ff3ef99e787ba",
     "url": "/milkyahonpo_hp/index.html"
   },
   {
-    "revision": "f433a1e780865d86e28b",
+    "revision": "1473a8863fbf79358072",
     "url": "/milkyahonpo_hp/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "e35358faa12b7b342d08",
-    "url": "/milkyahonpo_hp/static/js/2.70b3ac82.chunk.js"
+    "revision": "88797ffb81eaf6aafa89",
+    "url": "/milkyahonpo_hp/static/js/2.77d60d15.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/milkyahonpo_hp/static/js/2.70b3ac82.chunk.js.LICENSE"
+    "url": "/milkyahonpo_hp/static/js/2.77d60d15.chunk.js.LICENSE"
   },
   {
-    "revision": "f433a1e780865d86e28b",
-    "url": "/milkyahonpo_hp/static/js/main.2e3c3f97.chunk.js"
+    "revision": "1473a8863fbf79358072",
+    "url": "/milkyahonpo_hp/static/js/main.1b25be3f.chunk.js"
   },
   {
     "revision": "c08a39b926394796ff42",
