@@ -1,24 +1,30 @@
 {
   "files": {
     "main.css": "/milkyahonpo_hp/static/css/main.dcd95780.chunk.css",
-    "main.js": "/milkyahonpo_hp/static/js/main.97c2399b.chunk.js",
-    "main.js.map": "/milkyahonpo_hp/static/js/main.97c2399b.chunk.js.map",
+    "main.js": "/milkyahonpo_hp/static/js/main.93addfe8.chunk.js",
+    "main.js.map": "/milkyahonpo_hp/static/js/main.93addfe8.chunk.js.map",
     "runtime-main.js": "/milkyahonpo_hp/static/js/runtime-main.cdc58252.js",
     "runtime-main.js.map": "/milkyahonpo_hp/static/js/runtime-main.cdc58252.js.map",
-    "static/js/2.6d6066ac.chunk.js": "/milkyahonpo_hp/static/js/2.6d6066ac.chunk.js",
-    "static/js/2.6d6066ac.chunk.js.map": "/milkyahonpo_hp/static/js/2.6d6066ac.chunk.js.map",
+    "static/js/2.5ff02a33.chunk.js": "/milkyahonpo_hp/static/js/2.5ff02a33.chunk.js",
+    "static/js/2.5ff02a33.chunk.js.map": "/milkyahonpo_hp/static/js/2.5ff02a33.chunk.js.map",
     "index.html": "/milkyahonpo_hp/index.html",
-    "precache-manifest.40f74f30826c8279c3641f256719d3ca.js": "/milkyahonpo_hp/precache-manifest.40f74f30826c8279c3641f256719d3ca.js",
+    "precache-manifest.902f930f180a9cfd0a0c85ad332cc77b.js": "/milkyahonpo_hp/precache-manifest.902f930f180a9cfd0a0c85ad332cc77b.js",
     "service-worker.js": "/milkyahonpo_hp/service-worker.js",
     "static/css/main.dcd95780.chunk.css.map": "/milkyahonpo_hp/static/css/main.dcd95780.chunk.css.map",
-    "static/js/2.6d6066ac.chunk.js.LICENSE": "/milkyahonpo_hp/static/js/2.6d6066ac.chunk.js.LICENSE",
+    "static/js/2.5ff02a33.chunk.js.LICENSE": "/milkyahonpo_hp/static/js/2.5ff02a33.chunk.js.LICENSE",
+    "static/media/album01.jpg": "/milkyahonpo_hp/static/media/album01.d2421172.jpg",
+    "static/media/album02.jpg": "/milkyahonpo_hp/static/media/album02.997449a5.jpg",
+    "static/media/album03.jpg": "/milkyahonpo_hp/static/media/album03.c7b333c2.jpg",
+    "static/media/album04.jpg": "/milkyahonpo_hp/static/media/album04.3abe4a47.jpg",
+    "static/media/album05.jpg": "/milkyahonpo_hp/static/media/album05.22c72570.jpg",
+    "static/media/album06.jpg": "/milkyahonpo_hp/static/media/album06.07f541a8.jpg",
     "static/media/Home.css": "/milkyahonpo_hp/static/media/cow.fe1d1d64.jpg",
     "static/media/logo.png": "/milkyahonpo_hp/static/media/logo.a4a251f0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cdc58252.js",
-    "static/js/2.6d6066ac.chunk.js",
+    "static/js/2.5ff02a33.chunk.js",
     "static/css/main.dcd95780.chunk.css",
-    "static/js/main.97c2399b.chunk.js"
+    "static/js/main.93addfe8.chunk.js"
   ]
 }
